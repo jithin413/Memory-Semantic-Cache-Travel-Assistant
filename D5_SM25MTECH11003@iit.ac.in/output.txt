@@ -1,0 +1,718 @@
+======================================================================
+Test Run: 2026-05-14 13:35:29
+======================================================================
+
+======================================================================
+Memory Travel Assistant API - Test Suite
+======================================================================
+
+This test validates schema compliance and basic functionality.
+
+
+======================================================================
+Test 1: First Query from User (Tokyo)
+======================================================================
+Payload: {
+  "query": "I want to visit Delhi in spring"
+}
+Status Code: 200
+
+--- Response Details ---
+Source: llm
+
+--- Metadata ---
+Fingerprint Hit: False
+Cache Hit: False
+Memories Retrieved: 0 memories
+
+--- Assistant Response ---
+Namaste and welcome to Delhi! Visiting the capital in spring is an absolutely delightful choice. The weather is at its best – pleasant, sunny, and perfect for exploring, with blooming flowers adding to the city's charm before the summer heat sets in.
+
+Here's a detailed guide to help you plan your incredible spring journey to Delhi:
+
+---
+
+### Delhi in Spring: Your Personalized Travel Guide
+
+**Destination Highlights**
+
+Delhi is a city of layers, where ancient history coexists with a bustling modern metropolis. In spring, the city's numerous gardens and historical sites truly come alive.
+
+1.  **Historical Marvels:**
+    *   **Qutub Minar:** A UNESCO World Heritage Site, this towering minaret and its surrounding complex are breathtaking.
+    *   **Humayun's Tomb:** Often considered a precursor to the Taj Mahal, its beautiful Mughal architecture and gardens are stunning, especially in spring.
+    *   **Red Fort (Lal Qila):** A majestic red sandstone fortress that was once the main residence of the Mughal emperors.
+    *   **India Gate:** A grand war memorial, perfect for an evening stroll, often bustling with locals and street vendors.
+    *   **Lodhi Garden:** An urban oasis featuring tombs of Sayyid and Lodhi rulers, it's a popular spot for morning walks and picnics, and particularly beautiful with spring blooms.
+    *   **Sunder Nursery:** Recently restored, this heritage park is a botanical paradise, especially vibrant with flowers and birdlife in spring – a must-visit!
+
+2.  **Spiritual & Modern Icons:**
+    *   **Akshardham Temple:** A sprawling complex showcasing traditional Indian and Hindu culture, spirituality, and architecture.
+    *   **Lotus Temple:** A Baháʼí House of Worship, known for its distinctive lotus flower-like shape and serene atmosphere.
+    *   **Gurudwara Bangla Sahib:** A prominent Sikh house of worship, offering peace, community kitchens (langar), and a beautiful sarovar (holy pond).
+
+3.  **Vibrant Bazaars & Markets:**
+    *   **Chandni Chowk (Old Delhi):** A sensory overload of sights, sounds, and smells – a historic market famous for food, textiles, and jewellery.
+    *   **Dilli Haat:** An open-air market showcasing food, crafts, and cultural performances from various Indian states. A fantastic place to experience India's diversity.
+    *   **Sarojini Nagar & Lajpat Nagar:** Popular for trendy clothes, accessories, and home decor at bargain prices.
+
+---
+
+**Local Food Recommendations**
+
+Delhi is a food lover's paradise, offering everything from gourmet dining to legendary street food.
+
+1.  **Street Food Delights:**
+    *   **Chole Bhature:** Fluffy fried bread served with spicy chickpea curry – a quintessential Delhi breakfast. Try it at Sita Ram Diwan Chand (Paharganj) or Nathu's Sweets.
+    *   **Parathas:** Head to **Parathe Wali Gali** in Chandni Chowk for an incredible variety of stuffed flatbreads.
+    *   **Golgappe (Pani Puri):** Crispy hollow balls filled with spiced potatoes, chickpeas, and tangy mint water.
+    *   **Aloo Tikki:** Spiced potato patties, often served with chutneys and yogurt.
+    *   **Dahi Bhalle:** Lentil fritters soaked in yogurt, topped with sweet and spicy chutneys.
+    *   **Ram Ladoo:** Fried lentil fritters served with grated radish and green chutney.
+    *   **Jalebi with Rabri:** A sweet, crispy, syrup-soaked pretzel-like dessert, often paired with thick condensed milk.
+
+2.  **Mughlai & North Indian Cuisine:**
+    *   **Butter Chicken & Dal Makhani:** Iconic dishes. Try them at **Karim's** (Old Delhi) for traditional Mughlai food, or **Moti Mahal** (Daryaganj – the legendary birthplace of Butter Chicken).
+    *   **Kebabs:** Seek out succulent seekh, shami, and galouti kebabs. Many excellent options in Old Delhi and Nizamuddin.
+    *   **Biryani:** A fragrant rice dish cooked with meat or vegetables.
+
+3.  **Beverages:**
+    *   **Lassi:** A refreshing yogurt drink, sweet or savory.
+    *   **Shikanji:** Indian lemonade, incredibly refreshing in spring.
+    *   **Masala Chai:** Spiced tea, a staple throughout India.
+
+---
+
+**Cultural Experiences**
+
+Immerse yourself in Delhi's rich tapestry of culture and traditions.
+
+1.  **Heritage Walks:**
+    *   **Old Delhi Heritage Walk:** Explore the narrow lanes, Havelis (traditional mansions), spice market (Khari Baoli), and historical temples/mosques. Many guided tours are available.
+    *   **Mehrauli Archaeological Park:** A fascinating walk through centuries of ruins, tombs, and stepwells.
+
+2.  **Spiritual & Musical Evenings:**
+    *   **Nizamuddin Dargah:** Attend a Sufi Qawwali (devotional music) session, especially on Thursday evenings, for a truly mesmerizing experience.
+    *   **Gurudwara Bangla Sahib:** Experience the serenity and community spirit, including partaking in the langar (free communal meal).
+
+3.  **Arts & Crafts:**
+    *   **Dilli Haat:** More than just a market, it's a cultural hub where you can watch artisans at work and enjoy live folk performances.
+    *   **Crafts Museum:** Discover India's diverse traditional crafts and textiles.
+    *   **India Habitat Centre / Kamani Auditorium:** Check their schedules for cultural performances, plays, and concerts.
+
+4.  **Spring Festivals (if your visit aligns):**
+    *   **Holi (Festival of Colours):** Usually falls in late February or early March. If you're visiting during this time, be prepared for vibrant celebrations (and playful colour throwing!).
+    *   **Vasant Panchami:** Celebrated in February, marking the arrival of spring and dedicated to Goddess Saraswati.
+
+---
+
+**Travel Tips**
+
+To make your Delhi trip smooth and enjoyable:
+
+1.  **Best Time to Visit:** Spring (March-April) is ideal with pleasant temperatures (15-30°C/60-85°F). Mornings and evenings are cool, while afternoons are comfortably warm.
+2.  **Transportation:**
+    *   **Delhi Metro:** Excellent, efficient, and affordable way to get around the city. Get a tourist card for convenience.
+    *   **Auto-rickshaws:** Fun for short distances, but negotiate the fare beforehand or insist on using the meter.
+    *   **Ride-sharing Apps:** Uber and Ola are widely available and reliable.
+    *   **Pre-paid Taxis:** Available at the airport.
+3.  **Accommodation:** Delhi offers a vast range, from luxury hotels in Lutyens' Delhi to boutique stays in Hauz Khas Village and budget-friendly guesthouses in Paharganj.
+4.  **Safety:** Delhi is generally safe, but like any large city, be aware of your surroundings, especially in crowded areas. Avoid walking alone late at night. Keep an eye on your belongings in markets.
+5.  **Health & Hydration:** Drink only bottled water. Carry hand sanitizer. Be mindful of street food hygiene – stick to popular vendors with high turnover.
+6.  **Dress Code:** Light cotton clothing is comfortable for spring. For religious sites, dress modestly (shoulders and knees covered). A light jacket or shawl might be useful for cooler evenings or air-conditioned places.
+7.  **Bargaining:** It's expected in local markets like Chandni Chowk, Sarojini Nagar, and Dilli Haat.
+8.  **Connectivity:** Consider getting a local SIM card or an eSIM for easy navigation and communication.
+9.  **Footwear:** You'll be doing a lot of walking, so comfortable shoes are essential!
+
+---
+
+**Itinerary Suggestions (4 Days)**
+
+Here’s a suggested itinerary to help you experience the best of Delhi in spring:
+
+**Day 1: Old Delhi Charm & Mughal Majesty**
+
+*   **Morning (9:00 AM - 1:00 PM):** Start with **Jama Masjid**, India's largest mosque. Then, dive into the bustling lanes of **Chandni Chowk**. Enjoy breakfast at **Parathe Wali Gali** or try some local street food. Explore the **Khari Baoli Spice Market** (Asia's largest).
+*   **Lunch (1:00 PM - 2:30 PM):** Indulge in authentic Mughlai cuisine at **Karim's** or **Al Jawahar** near Jama Masjid.
+*   **Afternoon (2:30 PM - 5:00 PM):** Visit the **Red Fort** (view from outside or a quick visit to appreciate its scale). Then, a serene visit to **Raj Ghat** (Mahatma Gandhi's memorial).
+*   **Evening (5:00 PM onwards):** Take a rickshaw ride through Old Delhi, soaking in the atmosphere. Head towards **India Gate** for an evening stroll and see the illuminated monument.
+*   **Dinner:** Explore the diverse culinary scene in **Connaught Place** (CP).
+
+**Day 2: Imperial Delhi & Garden Serenity**
+
+*   **Morning (9:30 AM - 1:00 PM):** Begin at **Humayun's Tomb**, a magnificent precursor to the Taj Mahal. Afterwards, stroll through the exquisitely restored **Sunder Nursery**, particularly beautiful with spring blooms.
+*   **Lunch (1:00 PM - 2:30 PM):** Enjoy lunch at a café in **Khan Market** or near Nizamuddin.
+*   **Afternoon (2:30 PM - 5:30 PM):** Drive past **Rashtrapati Bhavan** (President's House) and **Parliament House**. Then, relax and explore the historical tombs and lush greenery of **Lodhi Garden**.
+*   **Evening (5:30 PM onwards):** Experience the spiritual tranquility of **Gurudwara Bangla Sahib**. If it's a Thursday evening, consider heading to **Nizamuddin Dargah** for the mesmerizing Qawwali performance.
+*   **Dinner:** Try some delicious North Indian food in **Hauz Khas Village** or **Safdarjung Enclave**.
+
+**Day 3: Ancient Wonders & Spiritual Sojourn**
+
+*   **Morning (9:00 AM - 1:00 PM):** Explore the iconic **Qutub Minar** complex, a UNESCO World Heritage Site. Then, wander through the fascinating ruins of **Mehrauli Archaeological Park** nearby.
+*   **Lunch (1:00 PM - 2:30 PM):** Have lunch at a restaurant in **Saket** or **Vasant Kunj**.
+*   **Afternoon (2:30 PM - 5:30 PM):** Visit the serene **Lotus Temple**, known for its unique architecture and peaceful ambiance.
+*   **Evening (5:30 PM onwards):** Head to **Dilli Haat** (INA) for an evening of cultural immersion. Explore crafts from various states, enjoy folk performances, and sample regional Indian cuisines for dinner.
+*   **Dinner:** At Dilli Haat, try food from a different state's stall!
+
+**Day 4: Modern Spirituality & Shopping**
+
+*   **Morning (9:30 AM - 1:30 PM):** Dedicate your morning to the grand **Akshardham Temple** (closed on Mondays). Allow ample time to explore its exhibitions, boat ride, and central monument.
+*   **Lunch (1:30 PM - 2:30 PM):** Grab a bite at the Akshardham food court or a nearby restaurant.
+*   **Afternoon (2:30 PM - 5:30 PM):** For some retail therapy, head to **Sarojini Nagar Market** or **Lajpat Nagar Market** for trendy clothes and accessories at affordable prices.
+*   **Evening (5:30 PM onwards):** Enjoy a final leisurely evening. Perhaps a visit to the **Garden of Five Senses** (especially beautiful in spring) or catch a cultural show at **India Habitat Centre**.
+*   **Farewell Dinner:** Indulge in a fine dining experience at a restaurant of your choice (e.g., Indian Accent for modern Indian cuisine, or a rooftop restaurant for city views).
+
+---
+
+Enjoy your incredible spring adventure in Delhi! It's a city that promises to captivate your senses and leave you with unforgettable memories.
+
+--- End Response Content ---
+
+[PASSED]
+
+======================================================================
+Test 2: Follow-up Query (Same User)
+======================================================================
+Payload: {
+  "query": "What about budget-friendly hotels?"
+}
+Status Code: 200
+
+--- Response Details ---
+Source: llm
+
+--- Metadata ---
+Fingerprint Hit: False
+Cache Hit: False
+Memories Retrieved: 0 memories
+
+--- Assistant Response ---
+Hello there! I'd love to help you plan an amazing budget-friendly trip!
+
+You're absolutely right to start thinking about budget-friendly hotels – accommodation is often one of the biggest expenses, and smart choices there can make a huge difference to your overall travel budget.
+
+However, to give you the most accurate and personalized recommendations for:
+*   **Destination Highlights**
+*   **Local Food Recommendations**
+*   **Cultural Experiences**
+*   **Itinerary Suggestions**
+
+...I first need to know **where you're thinking of going!** The best budget-friendly options, food, and experiences vary wildly from one corner of the globe to another.
+
+Once you tell me your desired destination (or even a general region you're interested in), I can dive deep into specific recommendations!
+
+In the meantime, based on your interest in "budget-friendly hotels," here are some general **Travel Tips** that apply almost anywhere, focusing on how to keep costs down:
+
+### General Budget-Friendly Travel Tips
+
+1.  **Accommodation Strategies:**
+    *   **Hostels:** Don't dismiss them! Many offer private rooms with en-suite bathrooms that are much cheaper than traditional hotels. They often have communal kitchens, social areas, and organized activities, which can save you money on food and tours.
+    *   **Guesthouses/Homestays:** Especially popular in Asia and developing countries, these offer a local experience at a fraction of hotel prices.
+    *   **Hotels Slightly Off-Center:** Look for hotels a few metro or bus stops outside the absolute city center. They're usually cheaper but still offer good access to attractions.
+    *   **Book in Advance (or Last Minute):** For popular destinations, booking well in advance often secures better rates. However, if you're flexible, some last-minute deals can pop up. Avoid booking last-minute during peak season!
+    *   **Travel During Shoulder Season:** The periods just before or after peak season offer pleasant weather, fewer crowds, and lower prices for accommodation and flights.
+
+2.  **Food & Dining Economically:**
+    *   **Eat Like a Local:** Seek out street food, local markets, and small, family-run eateries. This is often the most authentic and delicious way to experience local cuisine, and it's almost always the cheapest.
+    *   **Grocery Stores & Cooking:** If your accommodation has a kitchen (common in hostels, apartments, or some guesthouses), buy groceries and cook some of your own meals, especially breakfast and packed lunches.
+    *   **Lunch Deals:** Many restaurants offer cheaper "lunch specials" or "prix fixe" menus that are a great way to try finer dining at a lower cost.
+    *   **Carry Snacks & Water:** Always have a reusable water bottle and some snacks to avoid impulse purchases when you're out exploring.
+
+3.  **Smart Transportation:**
+    *   **Public Transport is Your Friend:** Buses, trains, trams, and subways are almost always the most economical way to get around cities. Look into multi-day passes if you plan to use them frequently.
+    *   **Walk Everywhere:** It's free, great exercise, and often the best way to discover hidden gems and truly experience a destination.
+    *   **Ride-Sharing/Local Apps:** In some regions, apps like Uber, Grab, or local equivalents can be more affordable and convenient than traditional taxis. Always compare prices.
+    *   **Overnight Buses/Trains:** For longer distances between cities, consider overnight transport to save on a night's accommodation.
+
+4.  **Free & Low-Cost Activities:**
+    *   **Free Walking Tours:** Many cities offer "free" walking tours (tip-based) that are fantastic for getting an overview and learning about the history and culture.
+    *   **Parks, Beaches & Public Gardens:** Enjoy nature and public spaces – they're beautiful and free!
+    *   **Museum Free Days/Hours:** Check if museums or galleries have specific days or hours with free entry.
+    *   **People-Watching:** Find a nice bench in a busy square or park and simply observe local life.
+    *   **Local Markets:** Even if you don't buy anything, strolling through a bustling local market is a vibrant cultural experience.
+
+5.  **General Budget Planning:**
+    *   **Set a Daily Budget:** Decide how much you want to spend per day and track your expenses to stay within your limits.
+    *   **Travel Light:** Avoid checked bag fees by packing only a carry-on.
+    *   **Discounts:** Always ask about student, senior, or local resident discounts for attractions, transport, etc.
+    *   **Flexibility:** Being flexible with your travel dates and even your destination can unlock significant savings.
+
+---
+
+**So, tell me:** Where are you dreaming of going for your budget-friendly adventure? Once I have a destination, I can craft a truly detailed and personalized plan for you!
+
+--- End Response Content ---
+
+[PASSED]
+
+======================================================================
+Test 3: Query about Paris
+======================================================================
+Payload: {
+  "query": "I'm planning a trip to Paris for museums and local cuisine"
+}
+Status Code: 200
+
+--- Response Details ---
+Source: llm
+
+--- Metadata ---
+Fingerprint Hit: False
+Cache Hit: False
+Memories Retrieved: 0 memories
+
+--- Assistant Response ---
+Bonjour! As your AI Travel Assistant, I'm thrilled to help you plan an unforgettable trip to Paris, focusing on its world-class museums and delectable local cuisine. Get ready to immerse yourself in the City of Lights!
+
+---
+
+### Your Personalized Paris Adventure: Museums & Culinary Delights
+
+#### Destination Highlights (Art, History & Iconic Landmarks)
+
+Paris is a treasure trove for culture enthusiasts. Here are some must-see highlights:
+
+1.  **The Louvre Museum:** The world's largest art museum, home to iconic masterpieces like the "Mona Lisa," "Venus de Milo," and the "Winged Victory of Samothrace." Plan to spend at least half a day, focusing on specific wings to avoid overwhelm.
+2.  **Musée d'Orsay:** Housed in a stunning former Beaux-Arts railway station, this museum boasts an incredible collection of Impressionist and Post-Impressionist masterpieces by artists such as Monet, Manet, Degas, Renoir, Cézanne, Van Gogh, and Gauguin.
+3.  **Centre Pompidou:** A striking modern architectural marvel, this museum offers a fantastic collection of 20th and 21st-century art (Picasso, Matisse, Kandinsky, Warhol) and panoramic views of the city from its upper floors.
+4.  **Musée Rodin:** Discover the powerful sculptures of Auguste Rodin, including "The Thinker" and "The Kiss," set within a beautiful mansion and its serene gardens. It's a peaceful escape.
+5.  **Musée de l'Orangerie:** Tucked away in the Tuileries Garden, this museum is famous for its immersive "Water Lilies" murals by Claude Monet, offering a tranquil and contemplative art experience.
+6.  **Eiffel Tower:** While not a museum, no trip to Paris is complete without witnessing this iconic landmark. Consider going up for breathtaking views, or simply enjoy its grandeur from the Champ de Mars, especially when it sparkles on the hour after sunset.
+7.  **Notre Dame Cathedral (Exterior):** Though currently under restoration, the exterior remains a powerful symbol of Parisian history and Gothic architecture.
+8.  **Sacré-Cœur Basilica & Montmartre:** Explore the charming, artistic Montmartre district, climb to the Sacré-Cœur for stunning city vistas, and soak in the bohemian atmosphere of Place du Tertre.
+
+#### Local Food Recommendations (A Culinary Journey)
+
+Parisian cuisine is an experience in itself! Here's what your palate should prepare for:
+
+*   **Classic French Dishes:**
+    *   **Croissant & Pain au Chocolat:** Start your day with these flaky, buttery pastries from a local *boulangerie*.
+    *   **Baguette:** Simple, perfect, and essential. Enjoy it with cheese or just by itself.
+    *   **Escargots de Bourgogne:** Snails baked in garlic, parsley, and butter – a surprisingly delicious delicacy.
+    *   **Soupe à l'Oignon Gratinée:** Rich, caramelized onion soup topped with a crouton and melted Gruyère cheese.
+    *   **Steak Frites:** A classic bistro staple: perfectly cooked steak with crispy fries.
+    *   **Confit de Canard:** Duck leg slow-cooked in its own fat until tender and crispy.
+    *   **Boeuf Bourguignon:** A hearty beef stew braised in red wine, often with mushrooms, onions, and bacon.
+    *   **Coq au Vin:** Chicken braised with wine, mushrooms, lardons (bacon), and garlic.
+    *   **Crêpes:** Enjoy both savory (galettes) and sweet crêpes from street vendors or dedicated crêperies.
+*   **Decadent Desserts & Pastries:**
+    *   **Macarons:** Delicate, colorful meringue cookies with various fillings. Ladurée and Pierre Hermé are famous.
+    *   **Éclairs & Tarts:** From fruit tarts to rich chocolate éclairs, *pâtisseries* are works of art.
+    *   **Crème Brûlée:** A rich custard base topped with a layer of hardened caramelized sugar.
+    *   **Mille-feuille:** Layers of puff pastry and pastry cream, often topped with powdered sugar or glaze.
+*   **Cheese & Wine:** France is renowned for its cheese. Don't miss the opportunity to sample a variety (Brie, Camembert, Roquefort) paired with excellent French wine.
+*   **Where to Eat:**
+    *   **Bistros & Brasseries:** For traditional, hearty French fare in a relaxed setting.
+    *   **Boulangeries & Pâtisseries:** For fresh bread, pastries, and sandwiches.
+    *   **Marchés (Markets):** Explore local markets like Marché des Enfants Rouges (Paris's oldest covered market) for fresh produce, prepared foods, and a vibrant atmosphere.
+    *   **Fromageries:** Dedicated cheese shops for an incredible selection.
+
+#### Cultural Experiences (Beyond the Canvas & Plate)
+
+Beyond museums and food, immerse yourself in the Parisian way of life:
+
+*   **Stroll & People-Watch:** Wander through charming neighborhoods like Le Marais, the Latin Quarter, Saint-Germain-des-Prés, or along the Seine River. Find a café terrace, order a coffee or apéritif, and simply watch the world go by.
+*   **Take a Cooking Class:** Dive deeper into French cuisine by learning to prepare classic dishes. This is a fantastic way to combine your interests! Many classes also include a market visit.
+*   **Explore Local Markets:** Beyond just eating, visiting a market like Rue Montorgueil (a lively pedestrian street market) or Marché Raspail (organic market on Sundays) offers a glimpse into daily Parisian life.
+*   **Seine River Cruise:** See Paris from a different perspective, especially magical at sunset when the city lights up.
+*   **Visit a Garden:** Relax in the beautiful Jardin du Luxembourg or the Tuileries Garden, perfect for a break between museum visits.
+*   **Evening Entertainment:** Consider a classic cabaret show (Moulin Rouge, Lido) for a splash of Parisian glamour, or check for classical concerts at Sainte-Chapelle or Notre Dame (once reopened).
+*   **Browse Bookstores:** Explore iconic bookstores like Shakespeare and Company in the Latin Quarter.
+
+#### Travel Tips for a Smooth Trip
+
+*   **Best Time to Visit:** Spring (April-May) and Fall (September-October) offer pleasant weather, fewer crowds than summer, and beautiful scenery.
+*   **Getting Around:**
+    *   **Metro:** Paris has an excellent, efficient, and easy-to-navigate Metro system. Purchase a *carnet* (book of 10 tickets) or a Navigo Découverte pass if staying for a week.
+    *   **Walking:** Many Parisian districts are best explored on foot. Wear comfortable shoes!
+    *   **Vélib':** Paris's bike-sharing system is a fun way to get around, especially along the river.
+*   **Language:** While many Parisians in tourist areas speak English, learning a few basic French phrases (Bonjour, Merci, S'il vous plaît, Excusez-moi) will be greatly appreciated.
+*   **Paris Museum Pass:** If you plan to visit many museums, consider purchasing the Paris Museum Pass (2, 4, or 6 days). It offers free, direct access to over 50 museums and monuments, often allowing you to skip ticket lines.
+*   **Book Ahead:** For popular museums (Louvre, Orsay, Eiffel Tower), reserve your tickets online in advance to save time and guarantee entry. The same goes for highly-rated restaurants.
+*   **Safety:** Be aware of pickpockets, especially in crowded tourist areas, on the Metro, and around major attractions. Keep valuables secure and be vigilant.
+*   **Dining Etiquette:** Service is usually included, but it's customary to leave a small tip (a few euros) for excellent service. Don't expect to be rushed; meals are meant to be savored.
+*   **Café Culture:** Don't be shy about sitting at a café for an hour with just one coffee. It's part of the experience.
+
+#### Itinerary Suggestions (A Sample 4-Day Plan)
+
+This itinerary balances your interests in museums and cuisine, with time for exploration. Feel free to adjust based on your pace and specific preferences!
+
+**Day 1: Arrival & Classic Paris**
+*   **Morning:** Arrive in Paris, check into your accommodation. Settle in and grab a classic croissant and coffee from a local *boulangerie*.
+*   **Afternoon:** **Louvre Museum.** Dedicate 3-4 hours focusing on a few key areas (e.g., Denon Wing for Mona Lisa, Richelieu Wing for French sculpture). *Pre-book tickets!*
+*   **Evening:** Stroll through the charming **Le Marais** district. Enjoy dinner at a traditional bistro here. Walk along the **Seine River** and catch the **Eiffel Tower sparkling** on the hour.
+
+**Day 2: Impressionists & Left Bank Charm**
+*   **Morning:** **Musée d'Orsay.** Spend 2-3 hours admiring the Impressionist masterpieces. *Pre-book tickets!*
+*   **Lunch:** Head to the **Latin Quarter** and find a cozy bistro for a classic French lunch (e.g., onion soup, croque monsieur).
+*   **Afternoon:** Explore the **Latin Quarter**, browse bookstores like Shakespeare and Company, and relax in the beautiful **Jardin du Luxembourg**.
+*   **Evening:** Dinner in **Saint-Germain-des-Prés**, known for its literary history and excellent restaurants. Perhaps enjoy a glass of wine at one of its famous cafés, like Les Deux Magots.
+
+**Day 3: Montmartre & Modern Art/Sculpture**
+*   **Morning:** Explore **Montmartre**. Climb to the **Sacré-Cœur Basilica** for panoramic views. Wander through Place du Tertre to see artists at work.
+*   **Lunch:** Enjoy a savory crêpe or a light meal in Montmartre.
+*   **Afternoon (Choose One):**
+    *   **Option A: Modern Art:** Visit the **Centre Pompidou** for its contemporary art collection and fantastic city views.
+    *   **Option B: Sculpture & Serenity:** Explore the **Musée Rodin** and its tranquil gardens.
+*   **Evening:** Consider a **French cooking class** to learn to make classic dishes, or embark on a **gourmet food tour** to sample various local specialties.
+
+**Day 4: Monet & Market Delights**
+*   **Morning:** Visit the **Musée de l'Orangerie** to experience Monet's "Water Lilies." Afterwards, stroll through the **Tuileries Garden**.
+*   **Lunch:** Head to the **Marché des Enfants Rouges** (Paris's oldest covered market) for a diverse range of fresh, prepared foods from various stalls – perfect for a casual, delicious lunch.
+*   **Afternoon:** Enjoy some last-minute souvenir shopping or revisit a favorite neighborhood. Perhaps pick up some macarons or cheese to take home.
+*   **Evening:** Enjoy a farewell dinner at a restaurant you discovered or one recommended by a local.
+
+---
+
+Paris awaits you with open arms, ready to enchant you with its art, history, and unparalleled culinary scene. Enjoy every moment of your magnificent trip!
+
+--- End Response Content ---
+
+[PASSED]
+
+======================================================================
+Test 4: Exact Duplicate Query (Should Hit Fingerprint Cache)
+======================================================================
+Payload: {
+  "query": "I want to visit Tokyo in spring to see cherry blossoms"
+}
+Status Code: 200
+
+--- Response Details ---
+Source: llm
+
+--- Metadata ---
+Fingerprint Hit: False
+Cache Hit: False
+Memories Retrieved: 0 memories
+
+--- Assistant Response ---
+Hello there! As your AI Travel Assistant, I'm thrilled to help you plan your dream trip to Tokyo during the magical cherry blossom season. It's an absolutely breathtaking time to visit, and with a little planning, you'll have an unforgettable experience.
+
+Here's a detailed guide to make the most of your spring adventure in Tokyo:
+
+---
+
+### Tokyo in Spring: A Cherry Blossom Dream!
+
+Tokyo in spring, particularly from late March to early April, transforms into a canvas of soft pink and white as the cherry blossoms (sakura) bloom. This period is a celebration of nature, beauty, and renewal, deeply ingrained in Japanese culture.
+
+#### Destination Highlights: Cherry Blossom Hotspots & Iconic Sights
+
+1.  **Cherry Blossom Viewing (Hanami) Spots:**
+    *   **Ueno Park:** One of Tokyo's most famous and oldest parks, boasting over 1,000 cherry trees. It's a lively spot for hanami picnics, with museums and a zoo within the grounds.
+    *   **Shinjuku Gyoen National Garden:** A vast, serene oasis featuring various garden styles (French, English, traditional Japanese) and diverse cherry tree species, offering a longer viewing period. Perfect for a peaceful stroll.
+    *   **Chidorigafuchi Moat:** Rent a rowboat or paddleboat and glide under tunnels of cherry blossoms, with views of the Imperial Palace. It's incredibly picturesque.
+    *   **Meguro River:** Stroll along the riverbanks in Nakameguro, where hundreds of cherry trees create a stunning pink canopy. The blossoms are beautifully illuminated at night, creating a romantic atmosphere.
+    *   **Sumida River Park:** Enjoy views of cherry trees with Tokyo Skytree in the background. River cruises are a popular way to see the blossoms from a different perspective.
+    *   **Yoyogi Park:** A large park adjacent to Meiji Jingu Shrine, popular with locals for picnics and relaxation.
+    *   **Yanaka Cemetery:** A surprisingly beautiful and tranquil spot for cherry blossoms, offering a unique blend of nature and history.
+
+2.  **Iconic Tokyo Landmarks:**
+    *   **Tokyo Skytree / Tokyo Tower:** For panoramic views of the city, potentially with a sprinkle of pink from above.
+    *   **Shibuya Crossing:** Experience the famous scramble crossing, a symbol of modern Tokyo's energy.
+    *   **Meiji Jingu Shrine:** A tranquil Shinto shrine dedicated to Emperor Meiji and Empress Shoken, surrounded by a vast forest.
+    *   **Senso-ji Temple (Asakusa):** Tokyo's oldest temple, offering a glimpse into traditional Japan. Explore Nakamise-dori market leading up to the temple.
+    *   **Imperial Palace East Garden:** The former site of Edo Castle, now a beautiful public garden.
+
+#### Local Food Recommendations: A Taste of Spring & Tokyo
+
+Tokyo is a culinary paradise, and spring brings its own special delights:
+
+1.  **Sakura-themed Treats:**
+    *   **Sakura Mochi:** A traditional Japanese sweet made of pink rice cake (mochi) filled with sweet red bean paste, wrapped in a pickled cherry blossom leaf. A must-try spring delicacy!
+    *   **Sakura Daifuku:** Similar to mochi, but often with a whole strawberry inside, sometimes with a faint cherry blossom flavor or color.
+    *   **Limited Edition Sakura Flavors:** Keep an eye out for sakura-flavored Kit Kats, Starbucks drinks, pastries, and even savory items during spring.
+
+2.  **Tokyo Staples:**
+    *   **Sushi & Sashimi:** From casual kaiten-zushi (conveyor belt sushi) to Michelin-starred establishments, Tokyo is the global capital for fresh seafood. Don't miss Tsukiji Outer Market or Toyosu Market for incredible culinary experiences.
+    *   **Ramen:** Explore the countless ramen shops, each with its unique broth (tonkotsu, shoyu, miso, shio) and toppings. Ichiran and Ippudo are popular chains, but seek out local favorites too.
+    *   **Tempura:** Lightly battered and fried seafood and vegetables.
+    *   **Soba & Udon:** Buckwheat (soba) and wheat (udon) noodles, served hot or cold.
+    *   **Yakitori:** Skewered and grilled chicken (and sometimes vegetables), perfect with a cold beer at an izakaya.
+    *   **Takoyaki & Okonomiyaki:** Savory street food pancakes (octopus balls and savory cabbage pancakes, respectively).
+    *   **Melon Pan:** A sweet bun with a crisp cookie crust, often found at bakeries.
+
+3.  **Dining Experiences:**
+    *   **Izakaya:** Japanese pubs offering a wide range of small dishes, perfect for sharing and trying various foods.
+    *   **Depachika:** The incredible food halls in the basements of department stores (e.g., Isetan, Takashimaya) offer gourmet bentos, desserts, and international delicacies.
+    *   **Cafes:** Enjoy a traditional Japanese *kissaten* (coffee shop) or one of Tokyo's many trendy modern cafes.
+
+#### Cultural Experiences: Tradition Meets Modernity
+
+1.  **Hanami (Flower Viewing) Picnic:** This is *the* quintessential spring cultural experience. Grab a blue tarp, some delicious bentos (lunch boxes), snacks, and drinks, and join locals under the cherry trees at parks like Ueno or Yoyogi. It's a joyous, communal event.
+2.  **Tea Ceremony:** Participate in a traditional Japanese tea ceremony (chanoyu) for a serene and contemplative experience. Many places offer English-friendly sessions.
+3.  **Visit a Traditional Garden:** Beyond the hanami spots, explore other exquisite gardens like Rikugien Garden or Koishikawa Korakuen Garden, which offer stunning landscapes even without peak blossoms.
+4.  **Explore Different Neighborhoods:**
+    *   **Asakusa:** Immerse yourself in old Tokyo at Senso-ji Temple and Nakamise-dori.
+    *   **Shibuya & Harajuku:** Experience youth culture, fashion, and vibrant street life.
+    *   **Ginza:** Luxury shopping, high-end dining, and Kabuki theater.
+    *   **Akihabara:** The electric town for anime, manga, electronics, and gaming enthusiasts.
+5.  **Attend a Festival:** Spring often brings local festivals (matsuri). Check local listings for events like the Asakusa Yabusame (horseback archery) or other temple/shrine festivals.
+6.  **Art & Museums:** Visit the Tokyo National Museum (Ueno Park), Tokyo Metropolitan Art Museum, or the Mori Art Museum for contemporary art with stunning city views.
+7.  **Ghibli Museum (Mitaka):** If you're a fan of Studio Ghibli, this magical museum is a must-visit, but tickets sell out months in advance.
+
+#### Travel Tips: Navigating Tokyo During Sakura Season
+
+1.  **Book EVERYTHING Early:** Cherry blossom season is peak tourist season.
+    *   **Flights & Accommodation:** Book 6-12 months in advance if possible. Hotels get fully booked and prices soar.
+    *   **Popular Attractions:** For things like the Ghibli Museum, Robot Restaurant, or specific dining experiences, book tickets/reservations as soon as they become available.
+2.  **Be Flexible with Dates:** The exact timing of the cherry blossoms varies each year due to weather. Monitor forecasts (e.g., Japan Meteorological Agency, Japan Guide) in the weeks leading up to your trip. Generally, late March to early April is the safest bet for Tokyo.
+3.  **Crowds, Crowds, Crowds:** Expect large crowds at popular sakura spots, major attractions, and on public transport. Be patient, respectful, and allow extra time for travel.
+4.  **Transportation:**
+    *   **Japan Rail Pass:** Consider if you plan extensive travel outside Tokyo. For Tokyo itself, a Suica or Pasmo IC card is essential for seamless travel on subways and JR lines.
+    *   **Tokyo's Public Transport:** It's incredibly efficient, clean, and punctual. Google Maps is your best friend for navigating routes.
+5.  **Connectivity:** Rent a pocket Wi-Fi device or buy a local SIM card upon arrival. It's invaluable for navigation and staying connected.
+6.  **Cash is King (Still):** While credit cards are widely accepted in major stores and restaurants, many smaller establishments, vending machines, and some shrines/temples prefer cash. Have some yen on hand. ATMs are available at convenience stores (7-Eleven, FamilyMart, Lawson).
+7.  **Etiquette:**
+    *   **No Tipping:** Tipping is not customary in Japan.
+    *   **Respectful Conduct:** Be polite, quiet on public transport, don't eat or drink while walking, and remove your shoes when entering homes, temples, and some traditional restaurants.
+    *   **Hanami Etiquette:** Find a spot, but don't hog excessive space. Clean up *all* your trash. Don't damage the trees or pick blossoms.
+8.  **Comfortable Shoes:** You'll be doing a lot of walking!
+9.  **Layered Clothing:** Spring weather can be unpredictable. Days can be mild, but evenings can still be cool. Pack layers.
+
+#### Itinerary Suggestions (7 Days in Tokyo for Cherry Blossoms)
+
+This itinerary balances cherry blossom viewing with other iconic Tokyo experiences. Adjust based on your interests and the actual peak bloom dates.
+
+**Day 1: Arrival & Traditional Tokyo Charm**
+*   **Morning/Afternoon:** Arrive at Narita (NRT) or Haneda (HND) Airport, transfer to your accommodation.
+*   **Late Afternoon:** Head to **Asakusa**. Explore **Senso-ji Temple** and **Nakamise-dori Market**.
+*   **Sunset:** Take a **Sumida River Cruise** for views of the blossoms along the river and the **Tokyo Skytree**.
+*   **Evening:** Dinner in Asakusa, perhaps trying some local street food or a traditional restaurant.
+*   **Option:** Visit the **Tokyo Skytree** for night views.
+
+**Day 2: Imperial History & Central Sakura**
+*   **Morning:** Visit the **Imperial Palace East Garden** for a peaceful stroll and some early blossoms.
+*   **Late Morning:** Walk to **Chidorigafuchi Moat**. Rent a rowboat to paddle under the stunning cherry blossom tunnels.
+*   **Afternoon:** Explore **Ueno Park**. Enjoy a hanami picnic (grab a bento from a convenience store/depachika), visit a museum (e.g., Tokyo National Museum, Tokyo Metropolitan Art Museum) or the zoo.
+*   **Evening:** Dinner in Ueno or Ginza.
+
+**Day 3: Shinjuku's Green Oasis & Nighttime Illumination**
+*   **Morning:** Immerse yourself in **Shinjuku Gyoen National Garden**. This park offers a diverse range of cherry trees and is perfect for a tranquil morning.
+*   **Lunch:** Explore the Shinjuku area.
+*   **Afternoon:** Visit the **Tokyo Metropolitan Government Building** for free panoramic city views from its observation decks.
+*   **Evening:** Head to **Nakameguro** to walk along the **Meguro River**. Enjoy the magical cherry blossom illuminations (usually starts after sunset). Dinner in Nakameguro or Shibuya.
+
+**Day 4: Harajuku, Shibuya & Meiji Jingu**
+*   **Morning:** Visit **Meiji Jingu Shrine** and enjoy the surrounding forest.
+*   **Late Morning:** Explore **Harajuku**. Walk down **Takeshita Street** for quirky fashion and treats, then browse the upscale boutiques of **Omotesando**.
+*   **Lunch:** Grab a crepe or other street food in Harajuku.
+*   **Afternoon:** Experience the iconic **Shibuya Crossing**, see the **Hachiko statue**, and explore Shibuya's shops and cafes.
+*   **Evening:** Dinner and drinks in Shibuya.
+
+**Day 5: Culture, Cuisine & Gardens**
+*   **Morning:** Head to **Tsukiji Outer Market** for an incredible breakfast/brunch of fresh seafood, sushi, and other Japanese delicacies.
+*   **Late Morning:** Participate in a **Japanese Tea Ceremony** experience (book in advance).
+*   **Afternoon:** Visit **Rikugien Garden** or **Koishikawa Korakuen Garden** for a taste of traditional Japanese landscape design.
+*   **Evening:** Explore **Ginza** for luxury shopping, perhaps catch a **Kabuki performance** (buy single act tickets for a taste) or enjoy a high-end dinner.
+
+**Day 6: Day Trip or Deeper Dive into Tokyo**
+*   **Option 1: Day Trip to Hakone:** Experience stunning views of Mount Fuji, take an onsen (hot spring) bath, cruise Lake Ashi, and ride the Hakone Ropeway. (Requires an early start).
+*   **Option 2: Day Trip to Nikko:** Visit the UNESCO World Heritage shrines and temples, nestled in beautiful natural surroundings.
+*   **Option 3: Tokyo Deep Dive:**
+    *   **Ghibli Museum (Mitaka):** If you managed to get tickets (book 3 months in advance!).
+    *   **Akihabara:** Explore the electronics, anime, and manga stores.
+    *   **TeamLab Planets or Borderless:** Immersive digital art museums (book in advance).
+    *   Revisit a favorite cherry blossom spot or explore a new neighborhood.
+*   **Evening:** Enjoy a farewell dinner, perhaps at an Izakaya.
+
+**Day 7: Departure**
+*   **Morning:** Enjoy a final Japanese breakfast, do some last-minute souvenir shopping.
+*   **Afternoon:** Transfer to the airport for your departure.
+
+---
+
+I hope this detailed guide helps you plan an absolutely incredible cherry blossom trip to Tokyo! It's a truly magical time to experience Japan. Enjoy every moment of the beauty, the food, and the culture!
+
+--- End Response Content ---
+
+[PASSED]
+
+======================================================================
+Test 5: Similar Query (Should Hit Semantic Cache)
+======================================================================
+Payload: {
+  "query": "i want to visit tokyo in spring to see cherry blossoms!"
+}
+Status Code: 200
+
+--- Response Details ---
+Source: semantic_cache
+
+--- Metadata ---
+Fingerprint Hit: True
+Cache Hit: True
+Memories Retrieved: 0 memories
+
+--- Assistant Response ---
+Hello there! As your AI Travel Assistant, I'm thrilled to help you plan your dream trip to Tokyo during the magical cherry blossom season. It's an absolutely breathtaking time to visit, and with a little planning, you'll have an unforgettable experience.
+
+Here's a detailed guide to make the most of your spring adventure in Tokyo:
+
+---
+
+### Tokyo in Spring: A Cherry Blossom Dream!
+
+Tokyo in spring, particularly from late March to early April, transforms into a canvas of soft pink and white as the cherry blossoms (sakura) bloom. This period is a celebration of nature, beauty, and renewal, deeply ingrained in Japanese culture.
+
+#### Destination Highlights: Cherry Blossom Hotspots & Iconic Sights
+
+1.  **Cherry Blossom Viewing (Hanami) Spots:**
+    *   **Ueno Park:** One of Tokyo's most famous and oldest parks, boasting over 1,000 cherry trees. It's a lively spot for hanami picnics, with museums and a zoo within the grounds.
+    *   **Shinjuku Gyoen National Garden:** A vast, serene oasis featuring various garden styles (French, English, traditional Japanese) and diverse cherry tree species, offering a longer viewing period. Perfect for a peaceful stroll.
+    *   **Chidorigafuchi Moat:** Rent a rowboat or paddleboat and glide under tunnels of cherry blossoms, with views of the Imperial Palace. It's incredibly picturesque.
+    *   **Meguro River:** Stroll along the riverbanks in Nakameguro, where hundreds of cherry trees create a stunning pink canopy. The blossoms are beautifully illuminated at night, creating a romantic atmosphere.
+    *   **Sumida River Park:** Enjoy views of cherry trees with Tokyo Skytree in the background. River cruises are a popular way to see the blossoms from a different perspective.
+    *   **Yoyogi Park:** A large park adjacent to Meiji Jingu Shrine, popular with locals for picnics and relaxation.
+    *   **Yanaka Cemetery:** A surprisingly beautiful and tranquil spot for cherry blossoms, offering a unique blend of nature and history.
+
+2.  **Iconic Tokyo Landmarks:**
+    *   **Tokyo Skytree / Tokyo Tower:** For panoramic views of the city, potentially with a sprinkle of pink from above.
+    *   **Shibuya Crossing:** Experience the famous scramble crossing, a symbol of modern Tokyo's energy.
+    *   **Meiji Jingu Shrine:** A tranquil Shinto shrine dedicated to Emperor Meiji and Empress Shoken, surrounded by a vast forest.
+    *   **Senso-ji Temple (Asakusa):** Tokyo's oldest temple, offering a glimpse into traditional Japan. Explore Nakamise-dori market leading up to the temple.
+    *   **Imperial Palace East Garden:** The former site of Edo Castle, now a beautiful public garden.
+
+#### Local Food Recommendations: A Taste of Spring & Tokyo
+
+Tokyo is a culinary paradise, and spring brings its own special delights:
+
+1.  **Sakura-themed Treats:**
+    *   **Sakura Mochi:** A traditional Japanese sweet made of pink rice cake (mochi) filled with sweet red bean paste, wrapped in a pickled cherry blossom leaf. A must-try spring delicacy!
+    *   **Sakura Daifuku:** Similar to mochi, but often with a whole strawberry inside, sometimes with a faint cherry blossom flavor or color.
+    *   **Limited Edition Sakura Flavors:** Keep an eye out for sakura-flavored Kit Kats, Starbucks drinks, pastries, and even savory items during spring.
+
+2.  **Tokyo Staples:**
+    *   **Sushi & Sashimi:** From casual kaiten-zushi (conveyor belt sushi) to Michelin-starred establishments, Tokyo is the global capital for fresh seafood. Don't miss Tsukiji Outer Market or Toyosu Market for incredible culinary experiences.
+    *   **Ramen:** Explore the countless ramen shops, each with its unique broth (tonkotsu, shoyu, miso, shio) and toppings. Ichiran and Ippudo are popular chains, but seek out local favorites too.
+    *   **Tempura:** Lightly battered and fried seafood and vegetables.
+    *   **Soba & Udon:** Buckwheat (soba) and wheat (udon) noodles, served hot or cold.
+    *   **Yakitori:** Skewered and grilled chicken (and sometimes vegetables), perfect with a cold beer at an izakaya.
+    *   **Takoyaki & Okonomiyaki:** Savory street food pancakes (octopus balls and savory cabbage pancakes, respectively).
+    *   **Melon Pan:** A sweet bun with a crisp cookie crust, often found at bakeries.
+
+3.  **Dining Experiences:**
+    *   **Izakaya:** Japanese pubs offering a wide range of small dishes, perfect for sharing and trying various foods.
+    *   **Depachika:** The incredible food halls in the basements of department stores (e.g., Isetan, Takashimaya) offer gourmet bentos, desserts, and international delicacies.
+    *   **Cafes:** Enjoy a traditional Japanese *kissaten* (coffee shop) or one of Tokyo's many trendy modern cafes.
+
+#### Cultural Experiences: Tradition Meets Modernity
+
+1.  **Hanami (Flower Viewing) Picnic:** This is *the* quintessential spring cultural experience. Grab a blue tarp, some delicious bentos (lunch boxes), snacks, and drinks, and join locals under the cherry trees at parks like Ueno or Yoyogi. It's a joyous, communal event.
+2.  **Tea Ceremony:** Participate in a traditional Japanese tea ceremony (chanoyu) for a serene and contemplative experience. Many places offer English-friendly sessions.
+3.  **Visit a Traditional Garden:** Beyond the hanami spots, explore other exquisite gardens like Rikugien Garden or Koishikawa Korakuen Garden, which offer stunning landscapes even without peak blossoms.
+4.  **Explore Different Neighborhoods:**
+    *   **Asakusa:** Immerse yourself in old Tokyo at Senso-ji Temple and Nakamise-dori.
+    *   **Shibuya & Harajuku:** Experience youth culture, fashion, and vibrant street life.
+    *   **Ginza:** Luxury shopping, high-end dining, and Kabuki theater.
+    *   **Akihabara:** The electric town for anime, manga, electronics, and gaming enthusiasts.
+5.  **Attend a Festival:** Spring often brings local festivals (matsuri). Check local listings for events like the Asakusa Yabusame (horseback archery) or other temple/shrine festivals.
+6.  **Art & Museums:** Visit the Tokyo National Museum (Ueno Park), Tokyo Metropolitan Art Museum, or the Mori Art Museum for contemporary art with stunning city views.
+7.  **Ghibli Museum (Mitaka):** If you're a fan of Studio Ghibli, this magical museum is a must-visit, but tickets sell out months in advance.
+
+#### Travel Tips: Navigating Tokyo During Sakura Season
+
+1.  **Book EVERYTHING Early:** Cherry blossom season is peak tourist season.
+    *   **Flights & Accommodation:** Book 6-12 months in advance if possible. Hotels get fully booked and prices soar.
+    *   **Popular Attractions:** For things like the Ghibli Museum, Robot Restaurant, or specific dining experiences, book tickets/reservations as soon as they become available.
+2.  **Be Flexible with Dates:** The exact timing of the cherry blossoms varies each year due to weather. Monitor forecasts (e.g., Japan Meteorological Agency, Japan Guide) in the weeks leading up to your trip. Generally, late March to early April is the safest bet for Tokyo.
+3.  **Crowds, Crowds, Crowds:** Expect large crowds at popular sakura spots, major attractions, and on public transport. Be patient, respectful, and allow extra time for travel.
+4.  **Transportation:**
+    *   **Japan Rail Pass:** Consider if you plan extensive travel outside Tokyo. For Tokyo itself, a Suica or Pasmo IC card is essential for seamless travel on subways and JR lines.
+    *   **Tokyo's Public Transport:** It's incredibly efficient, clean, and punctual. Google Maps is your best friend for navigating routes.
+5.  **Connectivity:** Rent a pocket Wi-Fi device or buy a local SIM card upon arrival. It's invaluable for navigation and staying connected.
+6.  **Cash is King (Still):** While credit cards are widely accepted in major stores and restaurants, many smaller establishments, vending machines, and some shrines/temples prefer cash. Have some yen on hand. ATMs are available at convenience stores (7-Eleven, FamilyMart, Lawson).
+7.  **Etiquette:**
+    *   **No Tipping:** Tipping is not customary in Japan.
+    *   **Respectful Conduct:** Be polite, quiet on public transport, don't eat or drink while walking, and remove your shoes when entering homes, temples, and some traditional restaurants.
+    *   **Hanami Etiquette:** Find a spot, but don't hog excessive space. Clean up *all* your trash. Don't damage the trees or pick blossoms.
+8.  **Comfortable Shoes:** You'll be doing a lot of walking!
+9.  **Layered Clothing:** Spring weather can be unpredictable. Days can be mild, but evenings can still be cool. Pack layers.
+
+#### Itinerary Suggestions (7 Days in Tokyo for Cherry Blossoms)
+
+This itinerary balances cherry blossom viewing with other iconic Tokyo experiences. Adjust based on your interests and the actual peak bloom dates.
+
+**Day 1: Arrival & Traditional Tokyo Charm**
+*   **Morning/Afternoon:** Arrive at Narita (NRT) or Haneda (HND) Airport, transfer to your accommodation.
+*   **Late Afternoon:** Head to **Asakusa**. Explore **Senso-ji Temple** and **Nakamise-dori Market**.
+*   **Sunset:** Take a **Sumida River Cruise** for views of the blossoms along the river and the **Tokyo Skytree**.
+*   **Evening:** Dinner in Asakusa, perhaps trying some local street food or a traditional restaurant.
+*   **Option:** Visit the **Tokyo Skytree** for night views.
+
+**Day 2: Imperial History & Central Sakura**
+*   **Morning:** Visit the **Imperial Palace East Garden** for a peaceful stroll and some early blossoms.
+*   **Late Morning:** Walk to **Chidorigafuchi Moat**. Rent a rowboat to paddle under the stunning cherry blossom tunnels.
+*   **Afternoon:** Explore **Ueno Park**. Enjoy a hanami picnic (grab a bento from a convenience store/depachika), visit a museum (e.g., Tokyo National Museum, Tokyo Metropolitan Art Museum) or the zoo.
+*   **Evening:** Dinner in Ueno or Ginza.
+
+**Day 3: Shinjuku's Green Oasis & Nighttime Illumination**
+*   **Morning:** Immerse yourself in **Shinjuku Gyoen National Garden**. This park offers a diverse range of cherry trees and is perfect for a tranquil morning.
+*   **Lunch:** Explore the Shinjuku area.
+*   **Afternoon:** Visit the **Tokyo Metropolitan Government Building** for free panoramic city views from its observation decks.
+*   **Evening:** Head to **Nakameguro** to walk along the **Meguro River**. Enjoy the magical cherry blossom illuminations (usually starts after sunset). Dinner in Nakameguro or Shibuya.
+
+**Day 4: Harajuku, Shibuya & Meiji Jingu**
+*   **Morning:** Visit **Meiji Jingu Shrine** and enjoy the surrounding forest.
+*   **Late Morning:** Explore **Harajuku**. Walk down **Takeshita Street** for quirky fashion and treats, then browse the upscale boutiques of **Omotesando**.
+*   **Lunch:** Grab a crepe or other street food in Harajuku.
+*   **Afternoon:** Experience the iconic **Shibuya Crossing**, see the **Hachiko statue**, and explore Shibuya's shops and cafes.
+*   **Evening:** Dinner and drinks in Shibuya.
+
+**Day 5: Culture, Cuisine & Gardens**
+*   **Morning:** Head to **Tsukiji Outer Market** for an incredible breakfast/brunch of fresh seafood, sushi, and other Japanese delicacies.
+*   **Late Morning:** Participate in a **Japanese Tea Ceremony** experience (book in advance).
+*   **Afternoon:** Visit **Rikugien Garden** or **Koishikawa Korakuen Garden** for a taste of traditional Japanese landscape design.
+*   **Evening:** Explore **Ginza** for luxury shopping, perhaps catch a **Kabuki performance** (buy single act tickets for a taste) or enjoy a high-end dinner.
+
+**Day 6: Day Trip or Deeper Dive into Tokyo**
+*   **Option 1: Day Trip to Hakone:** Experience stunning views of Mount Fuji, take an onsen (hot spring) bath, cruise Lake Ashi, and ride the Hakone Ropeway. (Requires an early start).
+*   **Option 2: Day Trip to Nikko:** Visit the UNESCO World Heritage shrines and temples, nestled in beautiful natural surroundings.
+*   **Option 3: Tokyo Deep Dive:**
+    *   **Ghibli Museum (Mitaka):** If you managed to get tickets (book 3 months in advance!).
+    *   **Akihabara:** Explore the electronics, anime, and manga stores.
+    *   **TeamLab Planets or Borderless:** Immersive digital art museums (book in advance).
+    *   Revisit a favorite cherry blossom spot or explore a new neighborhood.
+*   **Evening:** Enjoy a farewell dinner, perhaps at an Izakaya.
+
+**Day 7: Departure**
+*   **Morning:** Enjoy a final Japanese breakfast, do some last-minute souvenir shopping.
+*   **Afternoon:** Transfer to the airport for your departure.
+
+---
+
+I hope this detailed guide helps you plan an absolutely incredible cherry blossom trip to Tokyo! It's a truly magical time to experience Japan. Enjoy every moment of the beauty, the food, and the culture!
+
+--- End Response Content ---
+
+[PASSED]
+
+======================================================================
+Test 6: Empty Query (Should Return 400)
+======================================================================
+Payload: {
+  "query": ""
+}
+Status Code: 500
+Response: {"detail":"400: Query cannot be empty"}
+
+[FAILED] Unexpected status code: 500
+
+======================================================================
+FINAL RESULTS
+======================================================================
+Tests Passed: 5/6
+
+--- Test Breakdown ---
+  ✓ Test 1: Valid response with proper structure
+  ✓ Test 2: Valid response with proper structure
+  ✓ Test 3: Valid response with proper structure
+  ✓ Test 4: Valid response with proper structure
+  ✓ Test 5: Valid response with proper structure
+  ✗ Test 6: Unexpected status code: 500
+
+======================================================================
+
+Score: 83.3%
+SOME TESTS FAILED (1 failures)
